@@ -10,6 +10,10 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+n <- c(3, 4, 5)
+n
+```
 
 ## R Markdown
 
